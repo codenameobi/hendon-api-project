@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'hendon-api'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_47E15C97AB8E49DF8E7DDDF9E87364A9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7D3FDD470EAB4D37ACC84B3D6F39826D }}
           package: .
